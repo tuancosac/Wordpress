@@ -1,0 +1,7 @@
+.largefont, .largefont p{font-size:16px;}
+.skt-white-notice-container{width:100%; padding:15px 0 15px 0;}
+.skt-white-notice-img{float:left; text-align:left; width:13%;}
+.skt-white-notice-content{float:left; text-align:left; width:85%; padding-top:33px;}
+.skt-white-notice-heading{font-size:20px; font-weight:600;}
+.skt-white-clear{clear:both;}
+.wp-block{max-width: 1210px !important;}

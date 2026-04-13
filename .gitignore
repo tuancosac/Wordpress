@@ -1,0 +1,31 @@
+# WordPress core
+wp-admin/
+wp-includes/
+wp-*.php
+xmlrpc.php
+readme.html
+license.txt
+
+# Config
+wp-config.php
+wp-config-sample.php
+.env
+
+# Upload / cache / backup
+wp-content/uploads/
+wp-content/cache/
+wp-content/ai1wm-backups/
+
+# Ignore third-party plugins
+wp-content/plugins/ultimate-addons-for-gutenberg/
+wp-content/plugins/akismet/
+wp-content/plugins/hello-dolly/
+
+# Large files
+*.zip
+*.sql
+*.wpress
+
+# Logs
+*.log
+error_log
